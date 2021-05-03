@@ -129,6 +129,5 @@ if %answer%==y goto corp
 if %answer%==n goto main
 goto filefound
 pause>nul
-
-
-                                    
+:exit
+exit
